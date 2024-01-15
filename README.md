@@ -27,11 +27,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=1200&color=336699&width=435&lines=Linux+will+take+over+the+world)](https://git.io/typing-svg)
 
-
-### Languages stat:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitrivdolkom&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=currencyCompare,travelTemp,defaultFolderMint,remember,github-readme-stats,hitsStudy)](https://github.com/vitrivdolkom/github-readme-stats)
-
 ### Profile card: 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitrivdolkom&theme=discord_old_blurple)
