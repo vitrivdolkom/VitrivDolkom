@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋,  I`m a student of HITS (Higher IT School) of TSU.</h1>
 
-- 🌱 I’m currently learning frontend, especially **react, typescript, redux**
+- 🌱 I’m currently working as a frontend developer (**react, typescript**)
 - 📫 How to reach me: vdy0555@gmail.com
 
 ### Languages, libs I used:
